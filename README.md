@@ -1,4 +1,4 @@
-# Laravel Project README
+# Inventory Manager README
 
 Welcome to Inventory Manager! This Laravel project is designed to implement an Inventory Management System for ITS at Mississippi State University.
 
